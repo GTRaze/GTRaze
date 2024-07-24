@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GTRaze
 - 👀 I’m interested in Cloud, Networking, Automation
-- 🌱 I’m currently learning Automation, Python, AWS
+- 🌱 I’m currently learning Network Automation, Python, AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me magtech90@gmail.com
 
